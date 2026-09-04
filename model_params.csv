@@ -1,0 +1,6 @@
+Parametro;Valor;Origen
+HomeAdvantage;0.25;Supuesto (valor de referencia estandar de futbol, no calibrable sin historico de resultados por localia)
+DrawBias;0.3387;Calibrado exacto a partir de Tabla.csv (empates_totales = 3 x partidos_jugados_totales - puntos_totales_repartidos)
+RatingScale;1.0;Supuesto (controla que tan marcadas son las diferencias de rating, no calibrable sin historico)
+MinProb;0.03;Supuesto (piso de probabilidad para evitar 0%/100% deterministicos)
+K_prior;10;Supuesto (fechas de la temporada actual tras las cuales el prior de Data.xlsx deja de pesar)
