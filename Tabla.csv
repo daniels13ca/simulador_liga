@@ -1,21 +1,21 @@
-﻿Posicion actual;Equipo;Puntos;PJ;Diferencia de Goles
-1;América de Cali;20;8;16
-2;Independiente Medellín;15;6;6
-3;Deportes Tolima;13;6;3
-4;Atlético Nacional;12;5;8
-5;Millonarios;11;7;3
-6;Llaneros;11;7;1
-7;Atlético Bucaramanga;10;6;2
-8;Once Caldas;9;6;4
-9;Santa Fe;9;6;2
-10;Águilas Doradas;9;5;2
-11;Deportivo Cali;8;6;2
-12;Cúcuta Deportivo;8;7;-5
-13;Internacional de Bogotá;7;7;-2
-14;Fortaleza;6;7;-2
-15;Deportivo Pereira;5;5;-3
-16;Jaguares;5;6;-5
-17;Junior;2;5;-4
-18;Alianza Valledupar;2;7;-10
-19;Boyacá Chicó;2;5;-10
-20;Deportivo Pasto;1;7;-8
+﻿Posicion actual;Equipo;Puntos;PJ;GF;GC;Diferencia de Goles
+1;América de Cali;20;8;20;4;16
+2;Independiente Medellín;15;6;12;6;6
+3;Deportes Tolima;13;6;10;7;3
+4;Atlético Nacional;12;5;12;4;8
+5;Millonarios;12;8;9;6;3
+6;Llaneros;11;7;8;7;1
+7;Santa Fe;10;7;11;9;2
+8;Águilas Doradas;10;6;10;8;2
+9;Atlético Bucaramanga;10;6;7;5;2
+10;Once Caldas;9;7;11;9;2
+11;Cúcuta Deportivo;9;8;8;13;-5
+12;Deportivo Cali;8;6;8;6;2
+13;Internacional de Bogotá;8;8;8;10;-2
+14;Fortaleza;7;8;8;10;-2
+15;Deportivo Pereira;6;6;3;6;-3
+16;Jaguares;6;7;7;12;-5
+17;Boyacá Chicó;5;6;4;12;-8
+18;Junior;3;6;8;12;-4
+19;Deportivo Pasto;2;8;7;15;-8
+20;Alianza Valledupar;2;7;5;15;-10

@@ -8,46 +8,40 @@ Independiente Medellín;Millonarios
 Junior;Deportivo Pereira
 Llaneros;Deportes Tolima
 Millonarios;Deportivo Cali
-Atlético Nacional;Santa Fe
-Boyacá Chicó;Junior
 Cúcuta Deportivo;Águilas Doradas
-Internacional de Bogotá;Independiente Medellín
-Atlético Bucaramanga;Deportivo Pasto
-América de Cali;Fortaleza
-Deportivo Pereira;Jaguares
+Boyacá Chicó;Junior
 Once Caldas;Alianza Valledupar
+Internacional de Bogotá;Independiente Medellín
+América de Cali;Fortaleza
+Atlético Nacional;Santa Fe
+Deportivo Pereira;Jaguares
+Atlético Bucaramanga;Deportivo Pasto
+Once Caldas;Deportes Tolima
 Atlético Bucaramanga;Águilas Doradas
 Santa Fe;Jaguares
-Once Caldas;Deportes Tolima
-Boyacá Chicó;Once Caldas
-Santa Fe;Fortaleza
-Cúcuta Deportivo;Deportivo Pasto
-Junior;Jaguares
-Internacional de Bogotá;Águilas Doradas
-Deportivo Pereira;Millonarios
 Atlético Bucaramanga;Independiente Medellín
 Atlético Nacional;Deportes Tolima
 Llaneros;Deportivo Cali
 Jaguares;Fortaleza
-Alianza Valledupar;Junior
-Deportivo Pereira;Atlético Bucaramanga
+Santa Fe;Deportes Tolima
 Internacional de Bogotá;Llaneros
 Boyacá Chicó;Independiente Medellín
-Santa Fe;Deportes Tolima
+Alianza Valledupar;Junior
+Deportivo Pereira;Atlético Bucaramanga
 Atlético Nacional;Águilas Doradas
 Once Caldas;Deportivo Cali
 Cúcuta Deportivo;Millonarios
 América de Cali;Deportivo Pasto
-Águilas Doradas;Deportivo Pereira
 Independiente Medellín;Jaguares
-Deportivo Pasto;Once Caldas
+Millonarios;Boyacá Chicó
 Alianza Valledupar;Santa Fe
 Deportivo Cali;Cúcuta Deportivo
-Millonarios;Boyacá Chicó
+Deportivo Pasto;Once Caldas
 Fortaleza;Junior
 Atlético Bucaramanga;Internacional de Bogotá
 Deportes Tolima;América de Cali
 Llaneros;Atlético Nacional
+Águilas Doradas;Deportivo Pereira
 Santa Fe;Deportivo Cali
 América de Cali;Águilas Doradas
 Atlético Nacional;Millonarios
@@ -58,8 +52,9 @@ Cúcuta Deportivo;Llaneros
 Junior;Independiente Medellín
 Jaguares;Alianza Valledupar
 Fortaleza;Deportes Tolima
-Águilas Doradas;Jaguares
+Internacional de Bogotá;Atlético Nacional
 Deportivo Cali;Alianza Valledupar
+Águilas Doradas;Jaguares
 Deportes Tolima;Boyacá Chicó
 Independiente Medellín;Santa Fe
 Deportivo Pasto;Fortaleza
@@ -67,56 +62,55 @@ Cúcuta Deportivo;Deportivo Pereira
 Atlético Bucaramanga;Junior
 Llaneros;América de Cali
 Millonarios;Once Caldas
-Internacional de Bogotá;Atlético Nacional
 Fortaleza;Millonarios
 Once Caldas;Llaneros
 Junior;Internacional de Bogotá
-Deportivo Pereira;Deportivo Cali
 Atlético Nacional;Deportivo Pasto
+Deportivo Pereira;Deportivo Cali
 Jaguares;Deportes Tolima
 América de Cali;Independiente Medellín
 Alianza Valledupar;Águilas Doradas
 Boyacá Chicó;Cúcuta Deportivo
 Santa Fe;Atlético Bucaramanga
-Millonarios;Jaguares
 Águilas Doradas;Deportes Tolima
-Atlético Bucaramanga;América de Cali
+Millonarios;Jaguares
 Independiente Medellín;Once Caldas
+Atlético Bucaramanga;América de Cali
 Llaneros;Santa Fe
 Deportivo Cali;Junior
-Deportivo Pereira;Boyacá Chicó
 Deportivo Pasto;Alianza Valledupar
-Internacional de Bogotá;Fortaleza
+Deportivo Pereira;Boyacá Chicó
 Cúcuta Deportivo;Atlético Nacional
-América de Cali;Cúcuta Deportivo
+Internacional de Bogotá;Fortaleza
 Boyacá Chicó;Atlético Bucaramanga
-Alianza Valledupar;Internacional de Bogotá
 Junior;Águilas Doradas
+América de Cali;Cúcuta Deportivo
 Once Caldas;Deportivo Pereira
 Fortaleza;Deportivo Cali
-Jaguares;Llaneros
+Alianza Valledupar;Internacional de Bogotá
 Atlético Nacional;Independiente Medellín
 Deportes Tolima;Deportivo Pasto
-Millonarios;América de Cali
-Águilas Doradas;Fortaleza
-Deportivo Pereira;Deportes Tolima
+Jaguares;Llaneros
 Internacional de Bogotá;Once Caldas
+Llaneros;Junior
 Independiente Medellín;Alianza Valledupar
 Deportivo Cali;Boyacá Chicó
+Águilas Doradas;Fortaleza
 Cúcuta Deportivo;Santa Fe
-Llaneros;Junior
-Deportivo Pasto;Jaguares
 Atlético Bucaramanga;Atlético Nacional
+Deportivo Pereira;Deportes Tolima
+Millonarios;América de Cali
+Deportivo Pasto;Jaguares
 Fortaleza;Independiente Medellín
 Once Caldas;Águilas Doradas
 Deportes Tolima;Millonarios
-Alianza Valledupar;Llaneros
-Santa Fe;Deportivo Pasto
+Atlético Nacional;Deportivo Pereira
 América de Cali;Deportivo Cali
 Boyacá Chicó;Internacional de Bogotá
 Jaguares;Atlético Bucaramanga
 Junior;Cúcuta Deportivo
-Atlético Nacional;Deportivo Pereira
+Alianza Valledupar;Llaneros
+Santa Fe;Deportivo Pasto
 Atlético Nacional;Once Caldas
 Águilas Doradas;Independiente Medellín
 Cúcuta Deportivo;Jaguares

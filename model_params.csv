@@ -1,6 +1,6 @@
 Parametro;Valor;Origen
-HomeAdvantage;0.25;Supuesto (valor de referencia estandar de futbol, no calibrable sin historico de resultados por localia)
-DrawBias;0.3387;Calibrado exacto a partir de Tabla.csv (empates_totales = 3 x partidos_jugados_totales - puntos_totales_repartidos)
-RatingScale;1.0;Supuesto (controla que tan marcadas son las diferencias de rating, no calibrable sin historico)
+HomeAdvantage;140;Calibrado con Historial_partidos.csv (658 partidos 2025-I a 2026-II): busqueda en grilla que minimiza log-loss de prediccion, en puntos Elo
+RatingScale;200;Calibrado junto con HomeAdvantage y K_elo en la misma busqueda en grilla (log-loss)
+DrawBias;0.2979;Calibrado exacto: proporcion real de empates en Historial_partidos.csv (196 de 658 partidos)
 MinProb;0.03;Supuesto (piso de probabilidad para evitar 0%/100% deterministicos)
-K_prior;10;Supuesto (fechas de la temporada actual tras las cuales el prior de Data.xlsx deja de pesar)
+K_elo;36;Calibrado junto con HomeAdvantage y RatingScale en la misma busqueda en grilla (log-loss)
