@@ -1,123 +1,122 @@
-﻿Equipo Local;Equipo Visitante
-Boyacá Chicó;Atlético Nacional
-Boyacá Chicó;Alianza Valledupar
-Deportivo Cali;Águilas Doradas
-Deportivo Pereira;Santa Fe
-Atlético Nacional;Junior
-Independiente Medellín;Millonarios
-Junior;Deportivo Pereira
-Llaneros;Deportes Tolima
-Millonarios;Deportivo Cali
-Cúcuta Deportivo;Águilas Doradas
-Boyacá Chicó;Junior
-Once Caldas;Alianza Valledupar
-Internacional de Bogotá;Independiente Medellín
-América de Cali;Fortaleza
-Atlético Nacional;Santa Fe
-Deportivo Pereira;Jaguares
-Atlético Bucaramanga;Deportivo Pasto
-Once Caldas;Deportes Tolima
-Atlético Bucaramanga;Águilas Doradas
-Santa Fe;Jaguares
-Atlético Bucaramanga;Independiente Medellín
-Atlético Nacional;Deportes Tolima
-Llaneros;Deportivo Cali
-Jaguares;Fortaleza
-Santa Fe;Deportes Tolima
-Internacional de Bogotá;Llaneros
-Boyacá Chicó;Independiente Medellín
-Alianza Valledupar;Junior
-Deportivo Pereira;Atlético Bucaramanga
-Atlético Nacional;Águilas Doradas
-Once Caldas;Deportivo Cali
-Cúcuta Deportivo;Millonarios
-América de Cali;Deportivo Pasto
-Independiente Medellín;Jaguares
-Millonarios;Boyacá Chicó
-Alianza Valledupar;Santa Fe
-Deportivo Cali;Cúcuta Deportivo
-Deportivo Pasto;Once Caldas
-Fortaleza;Junior
-Atlético Bucaramanga;Internacional de Bogotá
-Deportes Tolima;América de Cali
-Llaneros;Atlético Nacional
-Águilas Doradas;Deportivo Pereira
-Santa Fe;Deportivo Cali
-América de Cali;Águilas Doradas
-Atlético Nacional;Millonarios
-Boyacá Chicó;Deportivo Pasto
-Once Caldas;Atlético Bucaramanga
-Deportivo Pereira;Internacional de Bogotá
-Cúcuta Deportivo;Llaneros
-Junior;Independiente Medellín
-Jaguares;Alianza Valledupar
-Fortaleza;Deportes Tolima
-Internacional de Bogotá;Atlético Nacional
-Deportivo Cali;Alianza Valledupar
-Águilas Doradas;Jaguares
-Deportes Tolima;Boyacá Chicó
-Independiente Medellín;Santa Fe
-Deportivo Pasto;Fortaleza
-Cúcuta Deportivo;Deportivo Pereira
-Atlético Bucaramanga;Junior
-Llaneros;América de Cali
-Millonarios;Once Caldas
-Fortaleza;Millonarios
-Once Caldas;Llaneros
-Junior;Internacional de Bogotá
-Atlético Nacional;Deportivo Pasto
-Deportivo Pereira;Deportivo Cali
-Jaguares;Deportes Tolima
-América de Cali;Independiente Medellín
-Alianza Valledupar;Águilas Doradas
-Boyacá Chicó;Cúcuta Deportivo
-Santa Fe;Atlético Bucaramanga
-Águilas Doradas;Deportes Tolima
-Millonarios;Jaguares
-Independiente Medellín;Once Caldas
-Atlético Bucaramanga;América de Cali
-Llaneros;Santa Fe
-Deportivo Cali;Junior
-Deportivo Pasto;Alianza Valledupar
-Deportivo Pereira;Boyacá Chicó
-Cúcuta Deportivo;Atlético Nacional
-Internacional de Bogotá;Fortaleza
-Boyacá Chicó;Atlético Bucaramanga
-Junior;Águilas Doradas
-América de Cali;Cúcuta Deportivo
-Once Caldas;Deportivo Pereira
-Fortaleza;Deportivo Cali
-Alianza Valledupar;Internacional de Bogotá
-Atlético Nacional;Independiente Medellín
-Deportes Tolima;Deportivo Pasto
-Jaguares;Llaneros
-Internacional de Bogotá;Once Caldas
-Llaneros;Junior
-Independiente Medellín;Alianza Valledupar
-Deportivo Cali;Boyacá Chicó
-Águilas Doradas;Fortaleza
-Cúcuta Deportivo;Santa Fe
-Atlético Bucaramanga;Atlético Nacional
-Deportivo Pereira;Deportes Tolima
-Millonarios;América de Cali
-Deportivo Pasto;Jaguares
-Fortaleza;Independiente Medellín
-Once Caldas;Águilas Doradas
-Deportes Tolima;Millonarios
-Atlético Nacional;Deportivo Pereira
-América de Cali;Deportivo Cali
-Boyacá Chicó;Internacional de Bogotá
-Jaguares;Atlético Bucaramanga
-Junior;Cúcuta Deportivo
-Alianza Valledupar;Llaneros
-Santa Fe;Deportivo Pasto
-Atlético Nacional;Once Caldas
-Águilas Doradas;Independiente Medellín
-Cúcuta Deportivo;Jaguares
-Atlético Bucaramanga;Fortaleza
-Deportivo Pasto;Junior
-Internacional de Bogotá;Santa Fe
-Millonarios;Alianza Valledupar
-Llaneros;Boyacá Chicó
-Deportivo Cali;Deportes Tolima
-Deportivo Pereira;América de Cali
+﻿Fecha;Jornada;Equipo Local;Equipo Visitante
+2026-09-10;5;Millonarios;Deportivo Cali
+2026-09-11;10;Jaguares;Fortaleza
+2026-09-11;10;Santa Fe;Deportes Tolima
+2026-09-12;10;Internacional de Bogotá;Llaneros
+2026-09-12;10;Boyacá Chicó;Independiente Medellín
+2026-09-12;10;Alianza Valledupar;Junior
+2026-09-13;10;Deportivo Pereira;Atlético Bucaramanga
+2026-09-13;10;Atlético Nacional;Águilas Doradas
+2026-09-13;10;Once Caldas;Deportivo Cali
+2026-09-13;10;Cúcuta Deportivo;Millonarios
+2026-09-14;10;América de Cali;Deportivo Pasto
+2026-09-15;3;Boyacá Chicó;Alianza Valledupar
+2026-09-16;7;Once Caldas;Deportes Tolima
+2026-09-16;13;Internacional de Bogotá;Atlético Nacional
+2026-09-17;7;Atlético Bucaramanga;Águilas Doradas
+2026-09-18;11;Independiente Medellín;Jaguares
+2026-09-19;11;Millonarios;Boyacá Chicó
+2026-09-19;11;Alianza Valledupar;Santa Fe
+2026-09-19;11;Deportivo Cali;Cúcuta Deportivo
+2026-09-19;11;Deportivo Pasto;Once Caldas
+2026-09-20;11;Fortaleza;Junior
+2026-09-20;11;Atlético Bucaramanga;Internacional de Bogotá
+2026-09-20;11;Deportes Tolima;América de Cali
+2026-09-20;11;Llaneros;Atlético Nacional
+2026-09-22;12;Santa Fe;Deportivo Cali
+2026-09-23;12;América de Cali;Águilas Doradas
+2026-09-24;12;Atlético Nacional;Millonarios
+2026-09-25;12;Boyacá Chicó;Deportivo Pasto
+2026-09-25;12;Once Caldas;Atlético Bucaramanga
+2026-09-26;12;Deportivo Pereira;Internacional de Bogotá
+2026-09-26;12;Cúcuta Deportivo;Llaneros
+2026-09-26;12;Junior;Independiente Medellín
+2026-09-27;3;Deportivo Cali;Águilas Doradas
+2026-09-27;12;Jaguares;Alianza Valledupar
+2026-09-27;12;Fortaleza;Deportes Tolima
+2026-09-29;3;Deportivo Pereira;Santa Fe
+2026-09-29;4;Independiente Medellín;Millonarios
+2026-09-30;3;Atlético Nacional;Junior
+2026-10-01;17;Internacional de Bogotá;Once Caldas
+2026-10-02;13;Deportivo Cali;Alianza Valledupar
+2026-10-03;13;Águilas Doradas;Jaguares
+2026-10-03;13;Deportes Tolima;Boyacá Chicó
+2026-10-03;13;Independiente Medellín;Santa Fe
+2026-10-04;13;Deportivo Pasto;Fortaleza
+2026-10-04;13;Cúcuta Deportivo;Deportivo Pereira
+2026-10-04;13;Atlético Bucaramanga;Junior
+2026-10-04;13;Llaneros;América de Cali
+2026-10-07;9;Atlético Bucaramanga;Independiente Medellín
+2026-10-07;9;Atlético Nacional;Deportes Tolima
+2026-10-08;11;Águilas Doradas;Deportivo Pereira
+2026-10-08;14;Fortaleza;Millonarios
+2026-10-10;14;Once Caldas;Llaneros
+2026-10-10;14;Junior;Internacional de Bogotá
+2026-10-10;14;Atlético Nacional;Deportivo Pasto
+2026-10-11;14;Deportivo Pereira;Deportivo Cali
+2026-10-11;14;Jaguares;Deportes Tolima
+2026-10-11;14;América de Cali;Independiente Medellín
+2026-10-12;14;Alianza Valledupar;Águilas Doradas
+2026-10-12;14;Boyacá Chicó;Cúcuta Deportivo
+2026-10-14;4;Junior;Deportivo Pereira
+2026-10-14;7;Santa Fe;Jaguares
+2026-10-17;1;Boyacá Chicó;Atlético Nacional
+2026-10-17;15;Águilas Doradas;Deportes Tolima
+2026-10-17;15;Millonarios;Jaguares
+2026-10-17;15;Independiente Medellín;Once Caldas
+2026-10-18;15;Atlético Bucaramanga;América de Cali
+2026-10-18;15;Llaneros;Santa Fe
+2026-10-18;15;Deportivo Cali;Junior
+2026-10-19;15;Deportivo Pasto;Alianza Valledupar
+2026-10-20;13;Millonarios;Once Caldas
+2026-10-20;15;Deportivo Pereira;Boyacá Chicó
+2026-10-20;15;Cúcuta Deportivo;Atlético Nacional
+2026-10-21;9;Llaneros;Deportivo Cali
+2026-10-21;15;Internacional de Bogotá;Fortaleza
+2026-10-23;16;Boyacá Chicó;Atlético Bucaramanga
+2026-10-23;16;Junior;Águilas Doradas
+2026-10-24;16;América de Cali;Cúcuta Deportivo
+2026-10-24;16;Once Caldas;Deportivo Pereira
+2026-10-25;16;Fortaleza;Deportivo Cali
+2026-10-25;16;Alianza Valledupar;Internacional de Bogotá
+2026-10-25;16;Atlético Nacional;Independiente Medellín
+2026-10-25;16;Deportes Tolima;Deportivo Pasto
+2026-10-26;14;Santa Fe;Atlético Bucaramanga
+2026-10-26;16;Jaguares;Llaneros
+2026-10-27;5;Cúcuta Deportivo;Águilas Doradas
+2026-10-27;5;Boyacá Chicó;Junior
+2026-10-28;5;Once Caldas;Alianza Valledupar
+2026-10-28;5;Internacional de Bogotá;Independiente Medellín
+2026-10-29;5;América de Cali;Fortaleza
+2026-10-29;5;Atlético Nacional;Santa Fe
+2026-10-30;5;Deportivo Pereira;Jaguares
+2026-10-30;5;Atlético Bucaramanga;Deportivo Pasto
+2026-10-31;17;Llaneros;Junior
+2026-11-01;17;Independiente Medellín;Alianza Valledupar
+2026-11-01;17;Deportivo Cali;Boyacá Chicó
+2026-11-02;17;Águilas Doradas;Fortaleza
+2026-11-02;17;Cúcuta Deportivo;Santa Fe
+2026-11-02;17;Atlético Bucaramanga;Atlético Nacional
+2026-11-03;17;Deportivo Pereira;Deportes Tolima
+2026-11-03;17;Millonarios;América de Cali
+2026-11-04;17;Deportivo Pasto;Jaguares
+2026-11-06;18;Fortaleza;Independiente Medellín
+2026-11-07;18;Once Caldas;Águilas Doradas
+2026-11-07;18;Deportes Tolima;Millonarios
+2026-11-07;18;Atlético Nacional;Deportivo Pereira
+2026-11-07;18;América de Cali;Deportivo Cali
+2026-11-08;18;Boyacá Chicó;Internacional de Bogotá
+2026-11-08;18;Jaguares;Atlético Bucaramanga
+2026-11-08;18;Junior;Cúcuta Deportivo
+2026-11-08;18;Alianza Valledupar;Llaneros
+2026-11-09;18;Santa Fe;Deportivo Pasto
+2026-11-12;19;Atlético Nacional;Once Caldas
+2026-11-12;19;Águilas Doradas;Independiente Medellín
+2026-11-12;19;Cúcuta Deportivo;Jaguares
+2026-11-12;19;Atlético Bucaramanga;Fortaleza
+2026-11-12;19;Deportivo Pasto;Junior
+2026-11-12;19;Internacional de Bogotá;Santa Fe
+2026-11-12;19;Millonarios;Alianza Valledupar
+2026-11-12;19;Llaneros;Boyacá Chicó
+2026-11-12;19;Deportivo Cali;Deportes Tolima
+2026-11-12;19;Deportivo Pereira;América de Cali
