@@ -1,6 +1,6 @@
 Parametro;Valor;Origen
 HomeAdvantage;130;Calibrado con Historial_partidos.csv (749 partidos, ordenados por Fecha real): busqueda en grilla que minimiza log-loss de prediccion, en puntos Elo. El optimo es una zona plana (150-200 practicamente empatados en log-loss), se deja el valor previo por ser estadisticamente indistinguible del nuevo optimo
 RatingScale;200;Calibrado junto con HomeAdvantage y K_elo en la misma busqueda en grilla (log-loss), ver nota de HomeAdvantage
-DrawBias;0.2939;Calibrado exacto: proporcion real de empates en Historial_partidos.csv (221 de 752 partidos)
+DrawBias;0.294;Calibrado exacto: proporcion real de empates en Historial_partidos.csv (222 de 755 partidos)
 MinProb;0.03;Supuesto (piso de probabilidad para evitar 0%/100% deterministicos)
 K_elo;36;Calibrado junto con HomeAdvantage y RatingScale en la misma busqueda en grilla (log-loss), ver nota de HomeAdvantage
